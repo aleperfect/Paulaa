@@ -55,7 +55,7 @@ async function start(file) {
   if (isRunning) return;
   isRunning = true;
 
-  say('Readz Aleizn', {
+  say('*Pau Bot*', {
     font: 'chrome',
     align: 'center',
     gradient: ['red', 'magenta'],
